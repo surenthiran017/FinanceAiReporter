@@ -1,0 +1,67 @@
+date,amount,description,category,subcategory,account
+2023-01-01,3200.00,Monthly Salary,Income,Salary,Checking Account
+2023-01-02,-1200.00,Rent Payment,Expense,Housing,Checking Account
+2023-01-05,-85.50,Grocery Shopping,Expense,Food,Checking Account
+2023-01-10,-45.00,Internet Bill,Expense,Utilities,Checking Account
+2023-01-15,-60.00,Electric Bill,Expense,Utilities,Checking Account
+2023-01-18,-35.00,Gas Bill,Expense,Utilities,Checking Account
+2023-01-20,-120.00,Car Insurance,Expense,Insurance,Checking Account
+2023-01-22,-42.50,Dinner with Friends,Expense,Entertainment,Credit Card
+2023-01-25,-78.30,Gasoline,Expense,Transportation,Credit Card
+2023-01-28,-35.00,Netflix Subscription,Expense,Entertainment,Credit Card
+2023-01-31,400.00,Freelance Work,Income,Side Gig,Checking Account
+2023-02-01,3200.00,Monthly Salary,Income,Salary,Checking Account
+2023-02-02,-1200.00,Rent Payment,Expense,Housing,Checking Account
+2023-02-04,-95.20,Grocery Shopping,Expense,Food,Checking Account
+2023-02-10,-45.00,Internet Bill,Expense,Utilities,Checking Account
+2023-02-15,-58.00,Electric Bill,Expense,Utilities,Checking Account
+2023-02-18,-38.00,Gas Bill,Expense,Utilities,Checking Account
+2023-02-20,-120.00,Car Insurance,Expense,Insurance,Checking Account
+2023-02-23,-65.75,Restaurant Dinner,Expense,Food,Credit Card
+2023-02-24,-65.00,New Clothes,Expense,Shopping,Credit Card
+2023-02-25,-82.40,Gasoline,Expense,Transportation,Credit Card
+2023-02-28,-35.00,Netflix Subscription,Expense,Entertainment,Credit Card
+2023-03-01,3200.00,Monthly Salary,Income,Salary,Checking Account
+2023-03-02,-1200.00,Rent Payment,Expense,Housing,Checking Account
+2023-03-05,-105.30,Grocery Shopping,Expense,Food,Checking Account
+2023-03-10,-45.00,Internet Bill,Expense,Utilities,Checking Account
+2023-03-15,-62.00,Electric Bill,Expense,Utilities,Checking Account
+2023-03-18,-32.00,Gas Bill,Expense,Utilities,Checking Account
+2023-03-20,-120.00,Car Insurance,Expense,Insurance,Checking Account
+2023-03-21,-150.00,Doctor Visit,Expense,Healthcare,Credit Card
+2023-03-25,-75.60,Gasoline,Expense,Transportation,Credit Card
+2023-03-28,-35.00,Netflix Subscription,Expense,Entertainment,Credit Card
+2023-03-31,550.00,Freelance Work,Income,Side Gig,Checking Account
+2023-04-01,3350.00,Monthly Salary + Raise,Income,Salary,Checking Account
+2023-04-02,-1200.00,Rent Payment,Expense,Housing,Checking Account
+2023-04-04,-92.40,Grocery Shopping,Expense,Food,Checking Account
+2023-04-10,-45.00,Internet Bill,Expense,Utilities,Checking Account
+2023-04-15,-55.00,Electric Bill,Expense,Utilities,Checking Account
+2023-04-18,-30.00,Gas Bill,Expense,Utilities,Checking Account
+2023-04-20,-120.00,Car Insurance,Expense,Insurance,Checking Account
+2023-04-22,-95.60,Birthday Dinner,Expense,Entertainment,Credit Card
+2023-04-25,-85.30,Gasoline,Expense,Transportation,Credit Card
+2023-04-28,-35.00,Netflix Subscription,Expense,Entertainment,Credit Card
+2023-04-30,400.00,Freelance Work,Income,Side Gig,Checking Account
+2023-05-01,3350.00,Monthly Salary,Income,Salary,Checking Account
+2023-05-02,-1200.00,Rent Payment,Expense,Housing,Checking Account
+2023-05-05,-88.70,Grocery Shopping,Expense,Food,Checking Account
+2023-05-10,-45.00,Internet Bill,Expense,Utilities,Checking Account
+2023-05-15,-52.00,Electric Bill,Expense,Utilities,Checking Account
+2023-05-18,-28.00,Gas Bill,Expense,Utilities,Checking Account
+2023-05-20,-120.00,Car Insurance,Expense,Insurance,Checking Account
+2023-05-23,-45.00,Movie Night,Expense,Entertainment,Credit Card
+2023-05-25,-80.20,Gasoline,Expense,Transportation,Credit Card
+2023-05-28,-35.00,Netflix Subscription,Expense,Entertainment,Credit Card
+2023-05-31,500.00,Freelance Work,Income,Side Gig,Checking Account
+2023-06-01,3350.00,Monthly Salary,Income,Salary,Checking Account
+2023-06-02,-1200.00,Rent Payment,Expense,Housing,Checking Account
+2023-06-04,-105.80,Grocery Shopping,Expense,Food,Checking Account
+2023-06-10,-45.00,Internet Bill,Expense,Utilities,Checking Account
+2023-06-15,-70.00,Electric Bill (Summer),Expense,Utilities,Checking Account
+2023-06-18,-25.00,Gas Bill,Expense,Utilities,Checking Account
+2023-06-20,-120.00,Car Insurance,Expense,Insurance,Checking Account
+2023-06-24,-120.00,Concert Tickets,Expense,Entertainment,Credit Card
+2023-06-25,-90.40,Gasoline,Expense,Transportation,Credit Card
+2023-06-28,-35.00,Netflix Subscription,Expense,Entertainment,Credit Card
+2023-06-30,600.00,Freelance Work,Income,Side Gig,Checking Account
