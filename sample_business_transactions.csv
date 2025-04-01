@@ -1,0 +1,42 @@
+date,amount,description,category,subcategory,account
+2023-01-05,5000.00,Initial Investment,Income,Investment,Business Account
+2023-01-10,2500.00,Client Project Payment,Income,Services,Business Account
+2023-01-15,-800.00,Office Rent,Expense,Rent,Business Account
+2023-01-20,-350.00,Computer Software,Expense,Software,Business Account
+2023-01-25,-125.00,Internet Bill,Expense,Utilities,Business Account
+2023-01-31,-200.00,Office Supplies,Expense,Supplies,Business Account
+2023-02-01,3000.00,Consulting Services,Income,Services,Business Account
+2023-02-05,1500.00,Product Sales,Income,Sales,Business Account
+2023-02-10,-800.00,Office Rent,Expense,Rent,Business Account
+2023-02-15,-75.00,Phone Bill,Expense,Utilities,Business Account
+2023-02-20,-125.00,Internet Bill,Expense,Utilities,Business Account
+2023-02-25,-450.00,Marketing Expenses,Expense,Marketing,Business Account
+2023-02-28,-320.00,Business Dinner,Expense,Entertainment,Business Account
+2023-03-01,4500.00,Major Client Contract,Income,Services,Business Account
+2023-03-05,1200.00,Product Sales,Income,Sales,Business Account
+2023-03-10,-800.00,Office Rent,Expense,Rent,Business Account
+2023-03-15,-500.00,Equipment Purchase,Expense,Equipment,Business Account
+2023-03-20,-125.00,Internet Bill,Expense,Utilities,Business Account
+2023-03-25,-250.00,Professional Development,Expense,Training,Business Account
+2023-03-31,-350.00,Advertising,Expense,Marketing,Business Account
+2023-04-01,3200.00,Consulting Project,Income,Services,Business Account
+2023-04-05,1800.00,Product Sales,Income,Sales,Business Account
+2023-04-10,-800.00,Office Rent,Expense,Rent,Business Account
+2023-04-15,-75.00,Phone Bill,Expense,Utilities,Business Account
+2023-04-20,-125.00,Internet Bill,Expense,Utilities,Business Account
+2023-04-25,-180.00,Office Supplies,Expense,Supplies,Business Account
+2023-04-30,-400.00,Software Subscription (Annual),Expense,Software,Business Account
+2023-05-01,3800.00,Consulting Services,Income,Services,Business Account
+2023-05-05,2100.00,Product Sales,Income,Sales,Business Account
+2023-05-10,-800.00,Office Rent,Expense,Rent,Business Account
+2023-05-15,-280.00,Business Conference,Expense,Travel,Business Account
+2023-05-20,-125.00,Internet Bill,Expense,Utilities,Business Account
+2023-05-25,-300.00,Contractor Payment,Expense,Contractors,Business Account
+2023-05-31,-220.00,Office Maintenance,Expense,Maintenance,Business Account
+2023-06-01,4200.00,Major Project Completion,Income,Services,Business Account
+2023-06-05,1900.00,Product Sales,Income,Sales,Business Account
+2023-06-10,-800.00,Office Rent,Expense,Rent,Business Account
+2023-06-15,-75.00,Phone Bill,Expense,Utilities,Business Account
+2023-06-20,-125.00,Internet Bill,Expense,Utilities,Business Account
+2023-06-25,-380.00,Marketing Campaign,Expense,Marketing,Business Account
+2023-06-30,-150.00,Office Supplies,Expense,Supplies,Business Account
